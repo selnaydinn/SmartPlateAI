@@ -31,3 +31,6 @@ pip install -r requirements.txt
 -Proje klasöründe .env adında bir dosya açın ve içine kendi Gemini API anahtarınızı ekleyin.
 -Uygulamayı başlatmak için terminale şu komutu yazın:
 streamlit run app.py
+
+## Model Performansı
+![Model Başarısı](reports/val_batch0_labels.jpg)
