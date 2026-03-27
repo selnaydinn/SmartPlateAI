@@ -1,0 +1,20 @@
+# Python gereksizleri
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Sanal ortam (Virtual Environment)
+venv/
+.venv/
+env/
+
+# Streamlit ayarları ve gizli bilgiler
+.streamlit/
+.env
+
+# İşletim sistemi dosyaları
+.DS_Store
+Thumbs.db
+
+*.db
