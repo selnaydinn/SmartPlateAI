@@ -15,8 +15,9 @@ SmartPlate AI, fotoğraflardan 40 farklı yemeği tanıyan ve kalori/makro değe
 - **Arayüz:** Streamlit
 - **Yapay Zeka:** YOLOv8 Nano, Gemini 2.5 Flash
 - **Veri İşleme:** Pandas, NumPy
-- **Veritabanı:** SQLite / Session State
+- **Veritabanı:** SQLite 
 - **Veri** Roboflow FoodSeg103
+- **API** FastAPI
 
 ## Model Eğitimi (Training)
 Model, **FoodSeg103** veri seti üzerinde **YOLOv8 Nano** mimarisi kullanılarak Google Colab ortamında eğitilmiştir. 
